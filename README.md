@@ -1,2 +1,2 @@
-# codetoddlers
-Toddlers at Coding
+# Programming
+Programming Computers and Devices
